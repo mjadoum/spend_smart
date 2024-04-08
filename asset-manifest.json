@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spend_smart/static/css/main.065e4770.css",
+    "main.js": "/spend_smart/static/js/main.982b7040.js",
+    "static/media/expenseMoney.mp3": "/spend_smart/static/media/expenseMoney.d91bacaa9dee363d5ff5.mp3",
+    "static/media/incomeMoney.mp3": "/spend_smart/static/media/incomeMoney.78588532859a8ac2fb9b.mp3",
+    "index.html": "/spend_smart/index.html",
+    "main.065e4770.css.map": "/spend_smart/static/css/main.065e4770.css.map",
+    "main.982b7040.js.map": "/spend_smart/static/js/main.982b7040.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065e4770.css",
+    "static/js/main.982b7040.js"
+  ]
+}
